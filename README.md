@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @town-programmer
 - 👀 I’m interested in web development
-- 🌱 I’m learning web development from harward university (online course)
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 reach me: townprogrammer@gmail.com
 
